@@ -91,7 +91,7 @@
             <a class="active" href="#home">Home</a>
             <a href="{{ url('/students') }}">Student</a>
             <a href="{{ url('/teachers') }}">Teacher</a>
-            <a href="#contact">Courses</a>
+            <a href="{{ url('/courses') }}">Course</a>
             <a href="#about">Enrollment</a>
             <a href="#about">Payment</a>
             </div>
